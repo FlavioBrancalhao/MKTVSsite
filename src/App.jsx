@@ -1,6 +1,6 @@
 
 import './App.css'
-import './Index.css'
+
 import "@fontsource/azeret-mono";
 import Down from './assets/down';
 import Bolinha from './assets/Bolinha';
