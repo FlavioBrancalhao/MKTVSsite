@@ -1,6 +1,5 @@
 
 import './App.css'
-
 import "@fontsource/azeret-mono";
 import Down from './assets/down';
 import Bolinha from './assets/Bolinha';
@@ -22,11 +21,8 @@ function App() {
       <p className='text-white text-[20px] text-center pt-8 xl:text-[3em] xl:pt-50 xl:text-left  '>Impulsionamos sua empresa com soluções estratégicas!</p>
       <p className='text-white text-[16px] text-center pt-2 xl:text-[1.5em]'>Ajudamos sua empresa a crescer com estratégias de marketing personalizadas, aumentando sua visibilidade, atraindo clientes e fortalecendo sua marca no mercado.</p>
       <div className="flex items-center flex-col p-4">
-      <button className='border-2 border-white text-white py-[20px] px-[30px] rounded-tl-[30px] rounded-bl-[30px] rounded-tr-[30px] rounded-br-[30px] xl:text-[1.5em]'>Contato</button>
-      <button className="p-6 xl:text-[1.5em]">Planos</button>
-<button className='xl:pt-20'>
-     <Down />
-</button>
+      <a href='https://w.app/aq2ges' className='border-2 border-white text-white py-[20px] px-[30px] rounded-tl-[30px] rounded-bl-[30px] rounded-tr-[30px] rounded-br-[30px] xl:text-[1.5em]'  >Contato</a>
+      <a href='#planos' className="p-6 xl:text-[1.5em]">Planos</a>
       </div>
       </div>
     </div>
@@ -78,7 +74,7 @@ function App() {
     
     <p className="flex flex-row pt-4 text-[20px] xl:text-[1.5em]  items-center"><Bolinha /><p className='pl-2'> Planos</p></p>
 
-    <div className="w-[95%] pt-2 xl:w-[30%] xl:pt-5">
+    <div className="w-[95%] pt-2 xl:w-[30%] xl:pt-5" id='planos'>
       <div className="flex justify-around items-center w-full border-2 bg-[#290073] border-[#290073] text-white py-[20px] px-[30px] rounded-tl-[30px] rounded-bl-[30px] rounded-tr-[30px] rounded-br-[30px] xl:text-[1.5em] ">
        <div className="flex ">
         <p>Standard</p>
@@ -193,7 +189,7 @@ function App() {
       </table>
     </div>
 
-    <button className='border-2 border-[#290073] mt-4 text-[#290073] py-[20px] px-[80px] rounded-tl-[30px] rounded-bl-[30px] rounded-tr-[30px] rounded-br-[30px] xl:text-[1.5em] '>Contato</button>
+    <a className='border-2 border-[#290073] mt-4 text-[#290073] py-[20px] px-[80px] rounded-tl-[30px] rounded-bl-[30px] rounded-tr-[30px] rounded-br-[30px] xl:text-[1.5em] ' href='https://w.app/aq2ges' >Contato</a>
 
       <div className="flex flex-col justify-center items-center bg-[#290073] w-full h-auto mt-4 text-white xl:h-[30vh]">
         <div className=" w-[90%] text-center p-4 xl:w-[30%]">
@@ -218,8 +214,8 @@ function App() {
         </div>
         <div className="flex flex-col  xl:text-[1.5em] xl:border-r-2 xl:border-white xl:w-[30%]">
         <p>Produtos</p>
-        <p>(11)98770-4919</p>
-        <p>fgbrancalhao@gmail.com</p>
+        <a href='https://w.app/aq2ges' >(11)98770-4919</a>
+        <a href="mailto:fgbrancalhao@gmail.com">fgbrancalhao@gmail.com</a>
         </div>
         <div className="flex flex-col  xl:text-[1.5em] xl:w-[30%]">
         <p>FBDEVS</p>
