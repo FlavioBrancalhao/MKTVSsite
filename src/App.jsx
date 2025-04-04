@@ -213,7 +213,7 @@ function App() {
         <p>Criação de sites</p>
         </div>
         <div className="flex flex-col  xl:text-[1.5em] xl:border-r-2 xl:border-white xl:w-[30%]">
-        <p>Produtos</p>
+        <p>Contato e suporte</p>
         <a href='https://w.app/aq2ges' >(11)98770-4919</a>
         <a href="mailto:fgbrancalhao@gmail.com">fgbrancalhao@gmail.com</a>
         </div>
