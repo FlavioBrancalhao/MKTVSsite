@@ -21,7 +21,7 @@ function App() {
       <p className='text-white text-[20px] text-center pt-8 xl:text-[3em] xl:pt-50 xl:text-left  '>Impulsionamos sua empresa com soluções estratégicas!</p>
       <p className='text-white text-[16px] text-center pt-2 xl:text-[1.5em]'>Ajudamos sua empresa a crescer com estratégias de marketing personalizadas, aumentando sua visibilidade, atraindo clientes e fortalecendo sua marca no mercado.</p>
       <div className="flex items-center flex-col p-4">
-      <a href='https://w.app/aq2ges' className='border-2 border-white text-white py-[20px] px-[30px] rounded-tl-[30px] rounded-bl-[30px] rounded-tr-[30px] rounded-br-[30px] xl:text-[1.5em]'  >Contato</a>
+      <a href='https://wa.me/5511987704919' className='border-2 border-white text-white py-[20px] px-[30px] rounded-tl-[30px] rounded-bl-[30px] rounded-tr-[30px] rounded-br-[30px] xl:text-[1.5em]'  >Contato</a>
       <a href='#planos' className="p-6 xl:text-[1.5em]">Planos</a>
       </div>
       </div>
@@ -189,7 +189,7 @@ function App() {
       </table>
     </div>
 
-    <a className='border-2 border-[#290073] mt-4 text-[#290073] py-[20px] px-[80px] rounded-tl-[30px] rounded-bl-[30px] rounded-tr-[30px] rounded-br-[30px] xl:text-[1.5em] ' href='https://w.app/aq2ges' >Contato</a>
+    <a className='border-2 border-[#290073] mt-4 text-[#290073] py-[20px] px-[80px] rounded-tl-[30px] rounded-bl-[30px] rounded-tr-[30px] rounded-br-[30px] xl:text-[1.5em] ' href='https://wa.me/5511987704919' >Contato</a>
 
       <div className="flex flex-col justify-center items-center bg-[#290073] w-full h-auto mt-4 text-white xl:h-[30vh]">
         <div className=" w-[90%] text-center p-4 xl:w-[30%]">
@@ -214,7 +214,7 @@ function App() {
         </div>
         <div className="flex flex-col  xl:text-[1.5em] xl:border-r-2 xl:border-white xl:w-[30%]">
         <p>Contato e suporte</p>
-        <a href='https://w.app/aq2ges' >(11)98770-4919</a>
+        <a href='https://wa.me/5511987704919' >(11)98770-4919</a>
         <a href="mailto:fgbrancalhao@gmail.com">fgbrancalhao@gmail.com</a>
         </div>
         <div className="flex flex-col  xl:text-[1.5em] xl:w-[30%]">
